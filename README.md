@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
-
 ## Hi there 👋
 
 I am **Vivek J.** working as **Sr. Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, Vue Js, NodeJS, RESTfull API’s, Postgres, MySql, and User Experience.** Strong engineering professional with a Bachelor of Computer engineering focused in Backend Development / UI UX Developer / Front End Developer / Web Designer from MGITER, Navsari.
