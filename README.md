@@ -9,8 +9,4 @@ I am **Vivek J.** working as **Sr. Software Engineer**. I am an Experienced **Fu
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Web Development**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjivani&layout=compact&theme=dark&hide_border=true)
-
-![Vivek J's github stats](https://github-readme-stats.vercel.app/api?username=vivekjivani&show_icons=true&hide_border=true&theme=dark)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivekjivani)](https://github.com/vivekjivani/github-profile-trophy)
