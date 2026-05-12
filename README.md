@@ -161,21 +161,7 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekjivani&theme=github_dark" alt="Vivek's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=vivekjivani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekjivani&theme=github_dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=vivekjivani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
