@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="og-image.png" alt="Vivek Jivani" width="100%" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vivek+Jivani+%F0%9F%91%8B;Full+Stack+Engineer+%26+Architect;Building+things+that+actually+work" alt="Typing SVG" />
 
 <p>Full Stack Engineer & Architect &nbsp;·&nbsp; Surat, India 🇮🇳</p>
