@@ -19,3 +19,26 @@
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekjivani17@gmail.com)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      🏗️ &nbsp;<strong>6+ years</strong> shipping production apps — from B2B diamond trading platforms to cloud-native data automation tools
+    </td>
+    <td width="50%" valign="top">
+      📱 &nbsp;Comfortable across <strong>Flutter mobile</strong> and <strong>Next.js / React web</strong> — one engineer, full product
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      🤖 &nbsp;AI-powered workflow — I use <strong>Claude &amp; Gemini</strong> daily for architecture, code review, and debugging
+    </td>
+    <td valign="top">
+      🚀 &nbsp;Last big win: architected a serverless platform that delivered a <strong>70% productivity boost</strong> at Nexsales
+    </td>
+  </tr>
+</table>
