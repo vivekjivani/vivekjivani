@@ -150,3 +150,69 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vivekjivani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Vivek's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=vivekjivani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjivani&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      🌐
+      <br/>
+      <strong>Portfolio</strong>
+      <br/>
+      <a href="https://vivekjivani.com">vivekjivani.com</a>
+    </td>
+    <td align="center" width="33%">
+      💼
+      <br/>
+      <strong>LinkedIn</strong>
+      <br/>
+      <a href="https://linkedin.com/in/viekjivani">in/viekjivani</a>
+    </td>
+    <td align="center" width="33%">
+      📧
+      <br/>
+      <strong>Email</strong>
+      <br/>
+      <a href="mailto:vivekjivani17@gmail.com">vivekjivani17@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+*Open to **freelance projects** and **full-time roles** — remote worldwide 🌍*
+
+<br/>
+
+<sub>⚡ Powered by coffee, curiosity, and a solid Wi-Fi connection</sub>
+
+</div>
