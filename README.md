@@ -14,8 +14,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vivekjivani.com-58a6ff?style=flat-square)](https://vivekjivani.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viekjivani)&nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekjivani17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-vivekjivani.com-58a6ff?style=flat-square)](https://vivekjivani.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viekjivani)&nbsp;
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekjivani17@gmail.com)
 
 </div>
