@@ -79,3 +79,74 @@
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Goldmine</h3>
+      <em>Data Automation Platform</em>
+      <br/><br/>
+      Serverless data automation platform that achieved a <strong>70% productivity boost</strong> and <strong>60% cost reduction</strong> through containerized microservices and intelligent workflow orchestration.
+      <br/><br/>
+      <code>Node.js</code> <code>Docker</code> <code>Serverless</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💎 Craft Diamonds</h3>
+      <em>Flutter · iOS & Android</em>
+      <br/><br/>
+      B2B diamond trading platform — real-time inventory browsing and order management for gem traders on the go.
+      <br/><br/>
+      <code>Flutter</code> <code>Firebase</code> <code>Node.js</code> <code>B2B</code>
+      <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=co.craftdiamonds.app">▶ Play Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📞 VoiceReach Dialer</h3>
+      <em>Cloud Sales Platform</em>
+      <br/><br/>
+      Cloud-native sales dialer — contributed core features and led Docker-based containerization strategy for scale.
+      <br/><br/>
+      <code>Node.js</code> <code>Docker</code> <code>GCP</code> <code>REST API</code>
+      <br/><br/>
+      <a href="https://voicereach.us">🌐 Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 GST Tools</h3>
+      <em>Flutter · Tax Utility App</em>
+      <br/><br/>
+      Handy GST calculation and filing utility for Indian businesses — offline-first approach, fast lookups, and a clean UI that simplifies tax compliance.
+      <br/><br/>
+      <code>Flutter</code> <code>Firebase</code> <code>Offline-first</code>
+      <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=in.codetailor.gstutils">▶ Play Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌸 Reiki Surat</h3>
+      <em>Freelance · Wellness Center Website</em>
+      <br/><br/>
+      Professional website for a wellness and healing center — calming design, service listings, and an easy appointment contact flow.
+      <br/><br/>
+      <code>HTML/CSS</code> <code>JavaScript</code>
+      <br/><br/>
+      <a href="https://reikisurat.in">🌐 Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦷 Varni Dental Care</h3>
+      <em>Freelance · Dental Clinic Website</em>
+      <br/><br/>
+      Clean, trustworthy website for a dental clinic — service showcase, patient-friendly UX, and a local SEO-ready structure.
+      <br/><br/>
+      <code>HTML/CSS</code> <code>JavaScript</code>
+      <br/><br/>
+      <a href="https://varnidentalcare.in">🌐 Live</a>
+    </td>
+  </tr>
+</table>
