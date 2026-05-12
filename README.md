@@ -160,7 +160,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vivekjivani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Vivek's GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekjivani&theme=github_dark" alt="Vivek's GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=vivekjivani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -168,7 +168,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjivani&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekjivani&theme=github_dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
